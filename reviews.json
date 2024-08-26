@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Chen",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Dr. Chen is very knowledgeable and explains complex concepts well. Sometimes her assignments can be challenging, but overall a great instructor."
+      },
+      {
+        "professor": "Prof. Michael Johnson",
+        "subject": "History",
+        "stars": 5,
+        "review": "Fantastic lecturer! Prof. Johnson makes history come alive with his engaging storytelling and in-depth knowledge."
+      },
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Dr. Thompson knows her subject well, but her lectures can be dry. More interactive elements would improve the class."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Lee is patient and always willing to help. His problem-solving approach is very effective."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Green is passionate about psychology and it shows. Her classes are always thought-provoking and engaging."
+      },
+      {
+        "professor": "Prof. Robert Brown",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Prof. Brown seems disinterested in teaching. Often arrives late and rushes through material."
+      },
+      {
+        "professor": "Dr. Lisa Wang",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Wang's lab sessions are well-organized and informative. Her lectures could use more real-world examples."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Prof. Wilson's passion for literature is contagious. His analysis of texts is insightful and inspiring."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Dr. Garcia presents interesting topics, but her grading can be inconsistent. More clarity on expectations would be helpful."
+      },
+      {
+        "professor": "Prof. Thomas Anderson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Prof. Anderson explains complex theories clearly. His problem sets are challenging but fair."
+      },
+      {
+        "professor": "Dr. Amanda Taylor",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Taylor's lectures are like guided tours through art museums. Her enthusiasm for the subject is infectious."
+      },
+      {
+        "professor": "Prof. Kevin Nguyen",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Prof. Nguyen knows his subject well, but sometimes struggles to engage the class. More discussions would improve the course."
+      },
+      {
+        "professor": "Dr. Jessica Martinez",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Martinez incorporates current events into her lectures effectively. Her field trips are particularly valuable."
+      },
+      {
+        "professor": "Prof. William Smith",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Prof. Smith's Socratic method of teaching encourages critical thinking. His classes are always intellectually stimulating."
+      },
+      {
+        "professor": "Dr. Elizabeth Turner",
+        "subject": "Anthropology",
+        "stars": 2,
+        "review": "Dr. Turner's lectures are often disorganized and hard to follow. More structure would greatly improve the course."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Marketing",
+        "stars": 4,
+        "review": "Prof. Kim brings real-world experience to the classroom. His case studies are particularly insightful."
+      },
+      {
+        "professor": "Dr. Olivia Parker",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Dr. Parker makes language study fascinating. Her interactive teaching style helps concepts stick."
+      },
+      {
+        "professor": "Prof. Christopher Davis",
+        "subject": "Mechanical Engineering",
+        "stars": 3,
+        "review": "Prof. Davis is knowledgeable but can be intimidating. His office hours are more helpful than his lectures."
+      },
+      {
+        "professor": "Dr. Sophia Rodriguez",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Dr. Rodriguez explains complex brain functions clearly. Her enthusiasm for the subject is evident in every lecture."
+      },
+      {
+        "professor": "Prof. Alexander White",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Prof. White's classes are a perfect blend of theory and practice. His passion for music is truly inspiring."
+      }
+    ]
+  }
